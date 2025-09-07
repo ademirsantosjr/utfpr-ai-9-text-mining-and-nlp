@@ -22,3 +22,24 @@ The first week of the course provides an introduction to the fundamental concept
 *   `week_1_intro/04 - Named Entity Recognition.md`: Notes on Named Entity Recognition.
 *   `week_1_intro/05 - Lemmas and Stopwords.md`: Notes on lemmatization and stop words.
 *   `week_1_intro/week1_text_mining_pln_spacy.ipynb`: Jupyter Notebook with practical examples of the concepts covered in week 1.
+
+## Week 2: Text Representation with Bag-of-Words and TF-IDF
+
+The second week focuses on vector text representation, exploring the Bag-of-Words (BOW) model and the TF-IDF metric.
+
+### Topics Covered:
+
+*   **The Bag-of-Words (BOW) Model:** Understanding the fundamentals of the BOW model.
+*   **Practical Implementation with CountVectorizer:** How to implement BOW using Scikit-learn's `CountVectorizer`.
+*   **A More Advanced Metric: TF-IDF:** Introduction to Term Frequency-Inverse Document Frequency.
+*   **Practical Implementation with TfidfVectorizer:** How to implement TF-IDF using Scikit-learn's `TfidfVectorizer`.
+*   **Applications in Information Retrieval and Recommendation:** Use cases for these text representation models.
+
+### Files:
+
+*   `week_2_bow/01 - The Bag-of-Words (BOW) Model.md`: Notes on the Bag-of-Words model.
+*   `week_2_bow/02 - Practical Implementation with CountVectorizer.md`: Notes on `CountVectorizer`.
+*   `week_2_bow/03 - A More Advanced Metric: TF-IDF.md`: Notes on TF-IDF.
+*   `week_2_bow/04 - Practical Implementation with TfidfVectorizer.md`: Notes on `TfidfVectorizer`.
+*   `week_2_bow/05 - Applications in Information Retrieval and Recommendation.md`: Notes on applications.
+*   `week_2_bow/Week2_Text_Representation_From_BOW_to_TF-IDF.md`: Summary of the concepts covered in week 2.
