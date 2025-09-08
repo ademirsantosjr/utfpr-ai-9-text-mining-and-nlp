@@ -115,3 +115,26 @@ The sixth week explores word embeddings, a modern approach to text representatio
 *   `week_6_embeddings/01_Embeddings_Introduction.md`: Thorough introduction to word embeddings, explaining the concept and how they capture semantic relationships between words.
 *   `week_6_embeddings/02_Embeddings_Implementation.md`: Detailed guide on implementing and using pre-trained embeddings with the Gensim library.
 *   `week_6_embeddings/03_Embeddings_Training.md`: In-depth exploration of Word2Vec training methodology, including Skip-gram and CBOW architectures.
+
+## Week 7: Sequence Models and Deep Learning for NLP
+
+The seventh week explores advanced approaches to document classification by moving beyond the Bag-of-Words model to sequence-based representations combined with word embeddings and deep learning architectures.
+
+### Topics Covered:
+
+*   **Overview of Sequences, Embeddings and Deep Learning:** Understanding how these three pillars combine to create sophisticated language models.
+*   **From Bag of Words to Sequences:** Exploring how sequence models overcome the limitations of BOW by preserving word order and reducing sparsity.
+*   **Word Embeddings in Sequences:** Learning how embeddings add semantic meaning to sequences through dense vector representations.
+*   **Deep Learning Architectures:** Exploring neural network architectures specifically designed for processing sequential text data.
+*   **Implementation of Models:** Practical steps for implementing sequence models with embeddings and neural networks.
+*   **Advanced Architectures:** Understanding how LSTM and CNN architectures can be applied to improve text classification.
+
+### Files:
+
+*   `week_7_sequences/01_overview.md`: Comprehensive overview of the approach combining sequences, embeddings, and deep learning for NLP tasks.
+*   `week_7_sequences/02_sequences.md`: Detailed explanation of sequence models and how they preserve word order and reduce sparsity.
+*   `week_7_sequences/03_embeddings.md`: In-depth coverage of how word embeddings add semantic meaning to sequences.
+*   `week_7_sequences/04_neural_networks.md`: Exploration of deep learning architectures suitable for processing sequential text data.
+*   `week_7_sequences/05_implementation_sequences_embeddings.md`: Practical guide for implementing sequence models with embeddings.
+*   `week_7_sequences/06_base_model_implementation.md`: Step-by-step implementation of a base neural network model for text classification.
+*   `week_7_sequences/07_lstm_cnn_implementation.md`: Advanced implementation utilizing LSTM and CNN architectures for improved text classification.
