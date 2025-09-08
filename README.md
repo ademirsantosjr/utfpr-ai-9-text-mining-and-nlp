@@ -138,3 +138,23 @@ The seventh week explores advanced approaches to document classification by movi
 *   `week_7_sequences/05_implementation_sequences_embeddings.md`: Practical guide for implementing sequence models with embeddings.
 *   `week_7_sequences/06_base_model_implementation.md`: Step-by-step implementation of a base neural network model for text classification.
 *   `week_7_sequences/07_lstm_cnn_implementation.md`: Advanced implementation utilizing LSTM and CNN architectures for improved text classification.
+
+## Week 8: Text Generation with Language Models
+
+The eighth week explores text generation using language models, transitioning from classification tasks to generative applications of neural networks by training models to produce coherent text sequences.
+
+### Topics Covered:
+
+*   **Introduction to Language Models:** Understanding the concept of language models for text generation and the transition from classification to generation architecture.
+*   **Data Acquisition and Preparation:** Methods for acquiring and preparing a specialized corpus of texts for training a domain-specific language model.
+*   **Dataset Construction:** Implementation of the sliding window technique to create supervised learning pairs for text generation tasks.
+*   **Model Implementation:** Building a deep neural network architecture with TextVectorization, Embedding, and LSTM layers optimized for text generation.
+*   **Model Refinement:** Advanced techniques to improve generation quality, including transfer learning with pre-trained embeddings and optimization through extended training.
+
+### Files:
+
+*   `week_8_text_generation/01_Overview.md`: Introduction to language models and text generation, explaining how to adapt neural networks from classification to generation tasks.
+*   `week_8_text_generation/02_Data_Acquisition.md`: Guide on acquiring and preprocessing a specialized corpus of UTFPR regulations for language model training.
+*   `week_8_text_generation/03_Dataset_Construction.md`: Explanation of the sliding window algorithm used to create supervised learning examples for next-word prediction.
+*   `week_8_text_generation/04_Model_Implementation.md`: Implementation of a sequential deep neural network with LSTM layers for text generation.
+*   `week_8_text_generation/05_Refining_the_Model.md`: Techniques for improving model performance, including transfer learning with pre-trained Word2Vec embeddings.
