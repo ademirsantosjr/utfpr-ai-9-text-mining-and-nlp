@@ -83,3 +83,19 @@ The fourth week explores techniques to optimize text classification by reducing 
 *   `week_4_dimensionality_reduction/03_Lemmatization.md`: In-depth coverage of lemmatization for semantic grouping and its implementation with spaCy.
 *   `week_4_dimensionality_reduction/04_N-Grams.md`: Exploration of N-grams to capture contextual information and enhance classification performance.
 *   `week_4_dimensionality_reduction/05_Stemming.md`: Analysis of stemming as a faster alternative to lemmatization with usage guidelines.
+
+## Week 5: Topic Modeling and Document Clustering
+
+The fifth week focuses on unsupervised learning techniques for text data, exploring document clustering and topic modeling approaches that discover thematic structures within text collections.
+
+### Topics Covered:
+
+*   **Bag-of-Words and Unsupervised Learning:** Understanding how the BoW representation can be utilized in unsupervised learning contexts.
+*   **K-Means for Document Clustering:** Exploring how K-Means can group similar documents based on their vector representations.
+*   **Topic Modeling with LDA:** Introduction to Latent Dirichlet Allocation, a probabilistic model that discovers abstract topics within document collections.
+
+### Files:
+
+*   `week_5_topic_modeling/01_BOW_and_Unsupervised_Learning.md`: Explanation of Bag-of-Words in the context of unsupervised learning applications.
+*   `week_5_topic_modeling/02_K-Means_for_Document_Clustering.md`: Detailed guide on implementing K-Means clustering for document grouping.
+*   `week_5_topic_modeling/03_Topic_Modeling_with_LDA.md`: In-depth exploration of LDA for topic discovery and document representation as topic mixtures.
