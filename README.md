@@ -158,3 +158,23 @@ The eighth week explores text generation using language models, transitioning fr
 *   `week_8_text_generation/03_Dataset_Construction.md`: Explanation of the sliding window algorithm used to create supervised learning examples for next-word prediction.
 *   `week_8_text_generation/04_Model_Implementation.md`: Implementation of a sequential deep neural network with LSTM layers for text generation.
 *   `week_8_text_generation/05_Refining_the_Model.md`: Techniques for improving model performance, including transfer learning with pre-trained Word2Vec embeddings.
+
+## Week 8 Extra: Transformers and Transfer Learning
+
+This supplementary module explores transformer models and transfer learning techniques, which have revolutionized the field of NLP by achieving state-of-the-art results on numerous language tasks with pre-trained models.
+
+### Topics Covered:
+
+*   **Transformer Architecture:** Understanding the transformer architecture, including attention mechanisms, encoder-decoder structures, and positional encoding.
+*   **Hugging Face Ecosystem:** Learning how to leverage the Hugging Face library to easily access and utilize pre-trained transformer models.
+*   **GPT-2 and Causal Language Modeling:** Exploring generative pre-trained transformers for text generation, conversational AI, and creative writing.
+*   **BERT for Text Classification:** Implementing fine-tuning strategies for BERT models on text classification tasks with practical examples.
+*   **Question Answering with BERT:** Advanced application of BERT models for extractive question answering tasks that demonstrate contextual understanding.
+
+### Files:
+
+*   `week_8_transformers_transf_learning/01_Transformers.md`: Comprehensive introduction to transformer architectures, explaining attention mechanisms and their advantages over RNNs.
+*   `week_8_transformers_transf_learning/02_Hugging_Face.md`: Detailed guide on using the Hugging Face ecosystem for accessing and implementing pre-trained models.
+*   `week_8_transformers_transf_learning/03_GPT2_and_CausalML.md`: Exploration of GPT-2 architecture and its applications in causal language modeling.
+*   `week_8_transformers_transf_learning/04_BERT_for_Classification.md`: Implementation guide for fine-tuning BERT on text classification tasks using the Transformers library.
+*   `week_8_transformers_transf_learning/05_BERT_for_QA.md`: Advanced application of BERT for question answering tasks, demonstrating contextual understanding capabilities.
