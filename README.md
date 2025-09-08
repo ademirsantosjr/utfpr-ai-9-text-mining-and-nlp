@@ -43,3 +43,43 @@ The second week focuses on vector text representation, exploring the Bag-of-Word
 *   `week_2_bow/04 - Practical Implementation with TfidfVectorizer.md`: Notes on `TfidfVectorizer`.
 *   `week_2_bow/05 - Applications in Information Retrieval and Recommendation.md`: Notes on applications.
 *   `week_2_bow/Week2_Text_Representation_From_BOW_to_TF-IDF.md`: Summary of the concepts covered in week 2.
+
+## Week 3: Text Classification and Sentiment Analysis
+
+The third week focuses on applying machine learning techniques to text classification, with a special emphasis on sentiment analysis.
+
+### Topics Covered:
+
+*   **Machine Learning Review:** A concise review of the fundamental concepts of machine learning.
+*   **Supervised Machine Learning Concepts:** Detailed explanation of supervised learning concepts relevant to text classification.
+*   **Training and Evaluation:** Guidelines and best practices for training and evaluating text classification models.
+*   **Sentiment Analysis:** An in-depth exploration of sentiment analysis, including its applications and the architecture of sentiment classifiers.
+*   **Implementation:** Step-by-step implementation of a sentiment classifier using Bag-of-Words and machine learning algorithms.
+
+### Files:
+
+*   `week_3_classification/01_Machine_Learning_Review.md`: Review of machine learning fundamentals, covering supervised, unsupervised, and reinforcement learning approaches.
+*   `week_3_classification/02_Supervised_Machine_Learning_Concepts.md`: Detailed explanation of supervised learning concepts relevant to text classification.
+*   `week_3_classification/03_Training_and_Evaluation.md`: Guidelines and best practices for training and evaluating text classification models.
+*   `week_3_classification/04_Sentiment_Analysis.md`: In-depth exploration of sentiment analysis, including its applications and classifier architecture.
+*   `week_3_classification/05_Implementation.md`: Step-by-step implementation of a sentiment classifier using Bag-of-Words and machine learning algorithms.
+
+## Week 4: Dimensionality Reduction and Advanced Text Features
+
+The fourth week explores techniques to optimize text classification by reducing dimensionality and enriching the Bag-of-Words model with contextual information.
+
+### Topics Covered:
+
+*   **Week Review:** A comprehensive review of the classification pipeline and introduction to optimization strategies.
+*   **Stopword Removal:** Using stopword removal as a dimensionality reduction technique.
+*   **Lemmatization:** Applying lemmatization for semantic grouping and significant dimensionality reduction.
+*   **N-Grams:** Exploring N-grams to capture contextual information in text classification.
+*   **Stemming:** Analyzing stemming as a faster alternative to lemmatization and comparing these techniques.
+
+### Files:
+
+*   `week_4_dimensionality_reduction/01_Week_Review.md`: Review of the classification pipeline with Bag-of-Words and introduction to optimization strategies.
+*   `week_4_dimensionality_reduction/02_Stopword_Removal.md`: Detailed explanation of stopword removal using Scikit-learn and spaCy.
+*   `week_4_dimensionality_reduction/03_Lemmatization.md`: In-depth coverage of lemmatization for semantic grouping and its implementation with spaCy.
+*   `week_4_dimensionality_reduction/04_N-Grams.md`: Exploration of N-grams to capture contextual information and enhance classification performance.
+*   `week_4_dimensionality_reduction/05_Stemming.md`: Analysis of stemming as a faster alternative to lemmatization with usage guidelines.
