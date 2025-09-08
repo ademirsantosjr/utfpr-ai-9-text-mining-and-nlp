@@ -99,3 +99,19 @@ The fifth week focuses on unsupervised learning techniques for text data, explor
 *   `week_5_topic_modeling/01_BOW_and_Unsupervised_Learning.md`: Explanation of Bag-of-Words in the context of unsupervised learning applications.
 *   `week_5_topic_modeling/02_K-Means_for_Document_Clustering.md`: Detailed guide on implementing K-Means clustering for document grouping.
 *   `week_5_topic_modeling/03_Topic_Modeling_with_LDA.md`: In-depth exploration of LDA for topic discovery and document representation as topic mixtures.
+
+## Week 6: Word Embeddings and Modern Text Representation
+
+The sixth week explores word embeddings, a modern approach to text representation that captures semantic relationships between words and provides dense vector representations that significantly outperform traditional sparse methods.
+
+### Topics Covered:
+
+*   **Introduction to Embeddings:** Understanding the concept of word embeddings, their advantages over traditional methods like One-Hot Encoding, and how they capture meaningful semantic relationships.
+*   **Practical Implementation with Gensim:** Learning how to use pre-trained word embeddings with the Gensim library, exploring word similarity, analogies, and sentence comparison techniques.
+*   **Embeddings Training and Architecture:** Exploring how embeddings are trained using the Word2Vec algorithm, including Skip-gram and Continuous Bag-of-Words (CBOW) architectures.
+
+### Files:
+
+*   `week_6_embeddings/01_Embeddings_Introduction.md`: Thorough introduction to word embeddings, explaining the concept and how they capture semantic relationships between words.
+*   `week_6_embeddings/02_Embeddings_Implementation.md`: Detailed guide on implementing and using pre-trained embeddings with the Gensim library.
+*   `week_6_embeddings/03_Embeddings_Training.md`: In-depth exploration of Word2Vec training methodology, including Skip-gram and CBOW architectures.
